@@ -65,7 +65,7 @@ bower info morecontent-js
 
 // Регистрация В NPM:
 npm login // Авторизация
-npm publish // Публикация пакета npm view tstplugin-js https://www.npmjs.com/package/morecontent-js
+npm publish // Публикация пакета npm view morecontent-js https://www.npmjs.com/package/morecontent-js
 
 
 

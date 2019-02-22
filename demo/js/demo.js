@@ -17,7 +17,7 @@ $(document).ready(function() {
 
 	example.on('beforeInitSwitch.mrc', function(e, inst, sets) {
 
-		// console.log( 'onChange', inst.mode, inst.status );
+		// console.log( 'change', inst.mode, inst.status );
 
 		// Кнопка DROP
 		// inst.layout.drop = $('<button type="button">Показать больше</button>')
@@ -30,9 +30,9 @@ $(document).ready(function() {
 		// 	.insertBefore(inst.layout.content);
 	});
 
-	example.on('onChange.mrc', function(e, inst, sets) {
+	example.on('change.mrc', function(e, inst, sets) {
 
-		// console.log( 'onChange', inst.mode, inst.status );
+		// console.log( 'change', inst.mode, inst.status );
 
 		// Кнопка DROP
 		// if( inst.layout.drop ) {

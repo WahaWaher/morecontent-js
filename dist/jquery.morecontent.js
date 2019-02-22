@@ -1,6 +1,6 @@
 /**
  * jQuery.moreContent
- * Version: 1.0.0
+ * Version: 1.0.1
  * Repo: https://github.com/WahaWaher/morecontent-js
  * Author: Sergey Kravchenko
  * Contacts: wahawaher@gmail.com
@@ -410,8 +410,8 @@
 			default: return;
 		}
 
-		// Событие: 'onChange'
-		lt.self.trigger('onChange.mrc', [_, sets]);
+		// Событие: 'change'
+		lt.self.trigger('change.mrc', [_, sets]);
 
 	};
 
@@ -514,8 +514,8 @@
 
 		}
 
-		// Событие: 'onChange'
-		lt.self.trigger('onChange.mrc', [_, sets]);
+		// Событие: 'change'
+		lt.self.trigger('change.mrc', [_, sets]);
 
 	};
 

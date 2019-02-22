@@ -1,6 +1,6 @@
 {
   "name": "morecontent-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jQuery-плагин, скрывающий часть контента, выходящего за рамки указанной высоты (адаптивный спойлер)",
   "author": "WahaWaher",
   "repository": {

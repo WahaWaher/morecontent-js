@@ -1,6 +1,6 @@
 /**
  * jQuery.moreContent Lite
- * Version: 1.0.0
+ * Version: 1.0.1
  * Repo: https://github.com/WahaWaher/morecontent-js
  * Author: Sergey Kravchenko
  * Contacts: wahawaher@gmail.com

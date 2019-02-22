@@ -401,8 +401,8 @@
 			default: return;
 		}
 
-		// Событие: 'onChange'
-		lt.self.trigger('onChange.mrc', [_, sets]);
+		// Событие: 'change'
+		lt.self.trigger('change.mrc', [_, sets]);
 
 	};
 
@@ -505,8 +505,8 @@
 
 		}
 
-		// Событие: 'onChange'
-		lt.self.trigger('onChange.mrc', [_, sets]);
+		// Событие: 'change'
+		lt.self.trigger('change.mrc', [_, sets]);
 
 	};
 

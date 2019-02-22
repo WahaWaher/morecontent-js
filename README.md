@@ -1,4 +1,4 @@
-jQuery MoreContent Plugin <sup>1.0.0</sup>
+jQuery MoreContent Plugin <sup>1.0.1</sup>
 -------
 _**jQuery-плагин**, скрывающий часть контента,  
 выходящего за рамки указанной высоты (**адаптивный спойлер**)_
