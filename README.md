@@ -11,7 +11,7 @@ _**jQuery-плагин**, скрывающий часть контента,
 
 <br>
 
-[Демо](https://wahawaher.ru/morecontent-js#examples) | [Документация](https://wahawaher.ru/morecontent-js)
+[Демо](http://wahawaher.ru/morecontent-js#examples) | [Документация](http://wahawaher.ru/morecontent-js)
 
 ## Пакетные менеджеры:
 ```sh

@@ -78,8 +78,8 @@ npm publish // Публикация пакета npm view morecontent-js https:/
 
 git status
 git add .
-git commit -m "v1.0.0" // изм. версию на текущую
-git tag -a v1.0.0 -m "Version 1.0.0" // изм. версию на текущую
+git commit -m "v1.0.1" // изм. версию на текущую
+git tag -a v1.0.1 -m "Version 1.0.1" // изм. версию на текущую
 git push origin master --tags
 npm publish // Публикация новой версии пакета
 bower info morecontent-js // Проверка пакета Bower
