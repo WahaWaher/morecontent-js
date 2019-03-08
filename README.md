@@ -1,5 +1,6 @@
 jQuery MoreContent Plugin <sup>1.0.1</sup>
 -------
+[![](https://data.jsdelivr.com/v1/package/npm/morecontent-js/badge)](https://www.jsdelivr.com/package/npm/morecontent-js) <br><br>
 _**jQuery-плагин**, скрывающий часть контента,  
 выходящего за рамки указанной высоты (**адаптивный спойлер**)_
 
@@ -12,6 +13,9 @@ _**jQuery-плагин**, скрывающий часть контента,
 <br>
 
 [Демо](http://wahawaher.ru/morecontent-js#examples) | [Документация](http://wahawaher.ru/morecontent-js)
+
+## CDN:
+[https://www.jsdelivr.com/package/npm/morecontent-js?path=dist](https://www.jsdelivr.com/package/npm/morecontent-js?path=dist)
 
 ## Пакетные менеджеры:
 ```sh
