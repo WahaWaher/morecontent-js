@@ -12,7 +12,7 @@ _**jQuery-плагин**, скрывающий часть контента,
 
 <br>
 
-[Демо](http://wahawaher.ru/morecontent-js#examples) | [Документация](http://wahawaher.ru/morecontent-js)
+[Демо](http://wahawaher.000webhostapp.com/morecontent-js#examples) | [Документация](http://wahawaher.000webhostapp.com/morecontent-js)
 
 ## CDN:
 [https://www.jsdelivr.com/package/npm/morecontent-js?path=dist](https://www.jsdelivr.com/package/npm/morecontent-js?path=dist)
