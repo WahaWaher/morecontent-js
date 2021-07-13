@@ -21,19 +21,6 @@
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/media.css">
   <link rel="stylesheet" href="css/fallbacks.css">
-
-  <script>
-    window.addEventListener('load', function () {
-
-      $.fn.moreContent.defaults = $.extend(true, {},$.fn.moreContent.defaults, {
-        tpl: {
-          btn: '<button class="uk-button uk-button-default uk-button-small uk-first-column"></button>'
-        }
-      });
-
-    });
-  </script>
-
 </head>
 <body>
 
@@ -1069,6 +1056,14 @@
 
   <!-- Back to top button -->
   <div id="top-button"></div>
+
+  <script>
+    window.addEventListener('load', function () {
+      $.fn.moreContent.defaults = $.extend(true, {},$.fn.moreContent.defaults, {
+        tpl: { btn: '<button class="uk-button uk-button-default uk-button-small uk-first-column"></button>' }
+      });
+    });
+  </script>
 
   <script src="libs/jquery/dist/jquery.min.js"></script>
   <script src="libs/easings/easings.js"></script>
