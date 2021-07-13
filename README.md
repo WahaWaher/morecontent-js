@@ -12,18 +12,18 @@ _**jQuery-плагин**, скрывающий часть контента,
 
 <br>
 
-[Демо](http://wahawaher.000webhostapp.com/morecontent-js#examples) | [Документация](http://wahawaher.000webhostapp.com/morecontent-js)
+[Демо](https://wahawaher.github.io/morecontent-js#examples) | [Документация](https://wahawaher.github.io/morecontent-js)
 
 ## CDN:
 [https://www.jsdelivr.com/package/npm/morecontent-js?path=dist](https://www.jsdelivr.com/package/npm/morecontent-js?path=dist)
 
 ## Пакетные менеджеры:
 ```sh
-# Bower
-bower install --save morecontent-js
+# YARN
+yarn add morecontent-js
 
 # NPM
-npm install --save morecontent-js
+npm i morecontent-js
 ```
 
 ## Подключение:
@@ -43,7 +43,7 @@ $('[data-mrc]').moreContent();
 3. Применить в HTML:
 ```html
 <div data-mrc>
-	<p>Контент, который нужно скрыть...</p>
+  <p>Контент, который нужно скрыть...</p>
 </div>
 ```
 ## Зависимости:
@@ -52,7 +52,7 @@ $('[data-mrc]').moreContent();
 ## Поддержка
 Решение проблем/багов плагина, а также замечания и пожелания в [соответствующей теме](https://github.com/WahaWaher/morecontent-js/issues)
 
-По всем другим вопросам:  [wahawaher@gmail.com](mailto:wahawaher@gmail.com "Написать на wahawaher@gmail.com")
+По всем другим вопросам: [wahawaher@gmail.com](mailto:wahawaher@gmail.com "Написать на wahawaher@gmail.com")
 
 ## Лицензия (MIT)
 Copyright (c) 2019 Sergey Kravchenko
